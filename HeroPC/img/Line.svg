@@ -1,0 +1,11 @@
+<svg width="1920" height="2" viewBox="0 0 1920 2" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 1H1920" stroke="url(#paint0_diamond_325_1936)" stroke-width="2"/>
+<defs>
+<radialGradient id="paint0_diamond_325_1936" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 1) rotate(90) scale(1 1920)">
+<stop stop-color="white"/>
+<stop offset="0.239583" stop-color="white" stop-opacity="0.689189"/>
+<stop offset="0.557292" stop-color="white" stop-opacity="0.277027"/>
+<stop offset="0.770833" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

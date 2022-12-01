@@ -1,0 +1,45 @@
+/* .hero__text{
+    position: relative;
+    top: 50%;
+}
+.slider__img {
+    display: flex;
+    max-width: 1920px;
+    position: absolute;
+
+} */
+
+/* .hero__slider {
+    position: relative;
+}
+*/
+.hero__text {
+    position: absolute;
+    top: 173px;
+    color:white
+}
+
+.hero {
+    background-image: url("/img/slider.svg");
+    min-height: 759px;
+    background-repeat: no-repeat;
+}
+.new__headline{
+    width: 769px;
+    height: 155px;
+
+}
+h1{
+    font-size: 48px;
+}
+.new__text{
+    width: 549px;
+    height: 73px;
+    font-size: 36px;
+}
+
+.hero__more{
+    margin-top: 550px;
+    width: 208px;
+    height: 60px;
+}

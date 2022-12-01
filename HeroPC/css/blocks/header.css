@@ -1,0 +1,45 @@
+header {
+    background-color: #0B101A;
+    font-size: 20px;
+    color:#CAF175;
+    display: flex;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+}
+a {
+    text-decoration: none;
+    color:#CAF175;
+
+}
+li {
+    list-style-type: none;
+    vertical-align: middle;
+    justify-content: space-between;
+
+}
+ul.header__menu {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+
+}
+ul.header__menu li {
+    display: inline; /*Отображать как строчный элемент*/
+    margin-right: 0.5%; /* Отступ слева */
+    padding: 3px; /* Поля вокруг текста */
+    -moz-text-shadow:0 0 10px #CAF175;
+    -webkit-text-shadow:0 0 10px #CAF175;
+    text-shadow:0 0 10px #CAF175;
+
+}
+ul.header__contact {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+
+}
+ul.header__contact li {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    padding: 3px; /* Поля вокруг текста */
+
+}

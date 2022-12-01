@@ -1,0 +1,12 @@
+.bar__menu{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+.bar__el {
+    display: flex;
+}
+.bar__models{
+    justify-content: center;
+}
